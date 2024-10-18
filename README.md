@@ -1,2 +1,2 @@
-# AdwanceSNI
-This is Adwance and simple SNI finding tool.
+# About this project 
+This is Adwance and simple SNI finding tool.This tool automates and simplifies the process of finding subdomains and scanning them for vulnerabilities. With a focus on ease of use, performance, and flexibility, it leverages powerful tools like subfinder and bugscanner-go, making it highly effective for security researchers and penetration testers. The addition of real-time progress tracking and concurrency ensures that it operates efficiently, even when processing multiple domains.
