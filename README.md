@@ -6,12 +6,21 @@ This tool is developed for educational and ethical purposes only. Users are resp
 
 ## Installation commands 🔗
 ```shell
-pkg update && pkg upgrade -y && pkg install golang -y && pkg install python-pip -y && pip install aiofiles rich && echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc && go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest && go install -v github.com/aztecrabbit/bugscanner-go@latest && pkg install git && git clone https://github.com/SirYadav4601/AdwanceSNI
+pkg update && pkg upgrade -y && pkg install golang -y && pkg install python-pip -y && pip install aiofiles rich && echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc && go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest && go install -v github.com/aztecrabbit/bugscanner-go@latest && pkg install git
 ```
 
 ## Usage 📌
-```shell
-pyrhon AdwanceSNI.py
-```
-select 1 if your want subdomain
-select 2 if you want to scan subdomains
+<b>1</b> Download the python file
+<p>
+  (ignore if you see any "Display over apps" Pop up while opening the python file)
+  <p>
+ <b>2</b> Open the python file with termux
+  <p>
+  <b>3</b>  open your Domain (.txt) file with termux
+    <p>
+    <b>4</b>  enter 
+      
+      python AdwanceSNI.py ```
+Select 1 if you want to find subdomains
+<p>
+Select 2 if you want to scan subdomains
