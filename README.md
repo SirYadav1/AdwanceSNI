@@ -33,11 +33,11 @@ example: /storage/emulated/0/domain.txt
 (domain.txt की जगह अपनी फाइल का नाम डाले)
 
 
-    ## Author Information
+## Author Information
 
 **Author**: YADAV  
 **Coded by**: YADAV  
 **Design by**: SONU   
-**Contact**: siryadav025@gamil.com<p>
+**Contact**: siryadav025@gamil.com<br>
 **Telegram**: [@SirYadav](https://t.me/SirYadav)  
 **Version**: 0.6
