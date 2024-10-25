@@ -18,6 +18,9 @@ This tool is developed for educational and ethical purposes only. Users are resp
 termux-setup-storage && pkg update && pkg upgrade -y && pkg install golang -y && pkg install python-pip -y && pkg install zlib && pip install aiofiles rich aiohttp pytz bs4 && echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc && go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest && go install -v github.com/aztecrabbit/bugscanner-go@latest
 && git clone https://github.com/SirYadav1/AdwanceSNI
 ```
+```shell
+git clone https://github.com/SirYadav1/AdwanceSNI
+```
 
 ## Usage 📌
  ```shell
