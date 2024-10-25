@@ -7,7 +7,18 @@ This tool is developed for educational and ethical purposes only. Users are resp
 ## Installation commands 🔗
 ```shell
 termux-setup-storage && pkg update && pkg upgrade -y && pkg install golang -y && pkg install python-pip -y && pkg install zlib && pip install aiofiles rich aiohttp pytz bs4 && echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc && go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest && go install -v github.com/aztecrabbit/bugscanner-go@latest
+&& git clone https://github.com/SirYadav4601/AdwanceSNI
 ```
 
 ## Usage 📌
+ ```shell
+cd AdwanceSNI
+```
 
+```shell
+python AdwanceSNI.py
+```
+<b> Save your domain file to main storage and then give the path for your TXT file
+</b>
+example: /storage/emulated/0/domain.txt
+(domain.txt की जगह अपनी फाइल का नाम डाले)
