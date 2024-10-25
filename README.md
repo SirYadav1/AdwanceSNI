@@ -29,6 +29,10 @@ pkg install python-pip -y
  ```shell 
 pkg install zlib -y
 ```
+
+```shell
+pkg install git
+```
 ```shell
  pip install aiofiles rich aiohttp pytz bs4
 ```
@@ -63,7 +67,7 @@ cd AdwanceSNI
 ```
 
 ```shell
-python AdwanceSNI.py
+python SniFinder.py
 ```
 <b> Save your domain file to main storage and then give the path for your TXT file
 </b><br>
