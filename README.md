@@ -28,8 +28,8 @@ cd AdwanceSNI
 python AdwanceSNI.py
 ```
 <b> Save your domain file to main storage and then give the path for your TXT file
-</b>
-example: /storage/emulated/0/domain.txt
+</b><br>
+example: /storage/emulated/0/domain.txt<br>
 (domain.txt की जगह अपनी फाइल का नाम डाले)
 
 
