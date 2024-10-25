@@ -38,6 +38,6 @@ example: /storage/emulated/0/domain.txt
 **Author**: YADAV  
 **Coded by**: YADAV  
 **Design by**: SONU   
-**Contact**: siryadav025@gamil.com
+**Contact**: siryadav025@gamil.com<p>
 **Telegram**: [@SirYadav](https://t.me/SirYadav)  
 **Version**: 0.6
