@@ -1,5 +1,14 @@
-# About this project 🚀
-This is Adwance and simple SNI finding tool.This tool automates and simplifies the process of finding subdomains and scanning them for vulnerabilities. With a focus on ease of use, performance, and flexibility, it leverages powerful tools like subfinder and bugscanner-go, making it highly effective for security researchers and penetration testers. The addition of real-time progress tracking and concurrency ensures that it operates efficiently, even when processing multiple domains.
+## Overview
+
+The Subdomain Finder & Scanner Tool is a command-line utility designed to discover and scan subdomains of specified domains. It utilizes asynchronous programming to efficiently handle multiple requests and integrates various tools to fetch and analyze subdomains.
+
+## Features
+
+- Fetches subdomains using the **subfinder** tool.
+- Scans subdomains for vulnerabilities using the **bugscanner-go** tool.
+- Displays user information and system details.
+- Provides a clean and colorful command-line interface with progress indicators.
+- Supports batch processing of domains for improved performance.
 
 ## Disclaimer⚠️
 This tool is developed for educational and ethical purposes only. Users are responsible for ensuring they have explicit permission to perform any subdomain enumeration or vulnerability scanning on the target domain. Unauthorized use of this tool on systems, networks, or websites without proper authorization is illegal and may lead to legal consequences. The developer and contributors are not liable for any misuse, damage, or legal issues resulting from the improper use of this tool. By using this tool, you agree to abide by all applicable laws and take full responsibility for your actions.
@@ -22,3 +31,13 @@ python AdwanceSNI.py
 </b>
 example: /storage/emulated/0/domain.txt
 (domain.txt की जगह अपनी फाइल का नाम डाले)
+
+
+    ## Author Information
+
+**Author**: YADAV  
+**Coded by**: YADAV  
+**Design by**: SONU   
+**Contact**: siryadav025@gamil.com
+**Telegram**: [@SirYadav](https://t.me/SirYadav)  
+**Version**: 0.6
