@@ -42,7 +42,8 @@ source $HOME/.bashrc
 
 # Install subfinder and bugscanner-go
 
-```shell go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+```shell 
+go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ```
 
 ```shell
@@ -51,7 +52,8 @@ go install -v github.com/aztecrabbit/bugscanner-go@latest
 
 # Clone the repository
 
- ```shell git clone https://github.com/SirYadav1/AdwanceSNI
+ ```shell 
+git clone https://github.com/SirYadav1/AdwanceSNI
 ```
 
 ## Usage 📌
