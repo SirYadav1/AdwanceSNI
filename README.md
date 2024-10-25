@@ -37,7 +37,7 @@ example: /storage/emulated/0/domain.txt
 
 **Author**: YADAV  
 **Coded by**: YADAV  
-**Design by**: SONU   
+**Design by**: [@SONU](tg://openmessage?user_id=5388393745)     
 **Contact**: siryadav025@gamil.com<br>
 **Telegram**: [@SirYadav](https://t.me/SirYadav)  
 **Version**: 0.6
