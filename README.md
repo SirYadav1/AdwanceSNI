@@ -17,29 +17,31 @@ This tool is developed for educational and ethical purposes only. Users are resp
 ```shell
 termux-setup-storage
 ```
-$ ```shell
+ ```shell
 pkg update && pkg upgrade -y
 ```
-$ ```shell
+ ```shell
 pkg install golang -y
 ```
-$ ```shell 
+```shell 
 pkg install python-pip -y
 ```
-$ ```shell 
+ ```shell 
 pkg install zlib -y
 ```
-$ ```shell
+```shell
  pip install aiofiles rich aiohttp pytz bs4
 ```
 
 # Add Go to PATH
+
 ```shell
 echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc
 source $HOME/.bashrc
 ```
 
 # Install subfinder and bugscanner-go
+
 ```shell go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ```
 
@@ -48,11 +50,13 @@ go install -v github.com/aztecrabbit/bugscanner-go@latest
 ```
 
 # Clone the repository
-$ ```shell git clone https://github.com/SirYadav1/AdwanceSNI
+
+ ```shell git clone https://github.com/SirYadav1/AdwanceSNI
 ```
 
 ## Usage 📌
- ```shell
+ 
+```shell
 cd AdwanceSNI
 ```
 
