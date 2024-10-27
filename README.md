@@ -5,7 +5,7 @@ The Subdomain Finder & Scanner Tool is a command-line utility designed to discov
 ## Features
 
 - Fetches subdomains using the **subfinder** tool.
-- Scans subdomains for vulnerabilities using the **bugscanner-go** tool.
+- Scans subdomains for vulnerabilities using the **bughunter-go** tool. which is modified version of *bugscanner-go* by *Ayan Rajput*
 - Displays user information and system details.
 - Provides a clean and colorful command-line interface with progress indicators.
 - Supports batch processing of domains for improved performance.
@@ -44,15 +44,14 @@ echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc
 source $HOME/.bashrc
 ```
 
-# Install subfinder and bugscanner-go
+# Install subfinder and bughunter-go
 
 ```shell 
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ```
 
 ```shell
-go install -v github.com/aztecrabbit/bugscanner-go@latest
-```
+go install -v github.com/Ayanrajpoot10/bughunter-go@v1.0.2
 
 # Clone the repository
 
