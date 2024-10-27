@@ -52,6 +52,7 @@ go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 
 ```shell
 go install -v github.com/Ayanrajpoot10/bughunter-go@v1.0.2
+```
 
 # Clone the repository
 
